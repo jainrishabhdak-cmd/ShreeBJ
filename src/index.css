@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-midnight-navy: #14213d;
+    --color-black: #0b0b0c;
+    --color-champagne-gold: #d4af75;
+    --color-platinum: #e5e4e2;
+    --color-ivory: #f8f5ef;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #0b0b0c;
+    color: #f8f5ef;
+    overflow-x: hidden;
+  }
+
+  /* When Hindi is active or for Hindi elements */
+  [lang="hi"], .font-hindi {
+    font-family: 'Noto Sans Devanagari', 'Plus Jakarta Sans', sans-serif;
+  }
+
+  .font-display {
+    font-family: 'Playfair Display', 'Cormorant Garamond', Georgia, serif;
+  }
+
+  .font-editorial {
+    font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Ultra-luxury champagne gold gradient text */
+.champagne-gold-text {
+  background: linear-gradient(135deg, #f8f5ef 0%, #d4af75 50%, #b89150 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #d4af75 0%, #f3e5c8 50%, #c49a55 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.platinum-border {
+  border-color: rgba(229, 228, 226, 0.16);
+}
+
+.champagne-border {
+  border-color: rgba(212, 175, 117, 0.28);
+}
+
+.champagne-border-hover:hover {
+  border-color: rgba(212, 175, 117, 0.65);
+}
+
+/* Glassmorphism luxury backdrop */
+.glass-panel {
+  background: rgba(20, 33, 61, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* Mobile ergonomics & touch target utilities */
+.pb-safe {
+  padding-bottom: max(env(safe-area-inset-bottom, 16px), 16px);
+}
+
+.pt-safe {
+  padding-top: max(env(safe-area-inset-top, 0px), 0px);
+}
+
+/* Touch manipulation prevents 300ms double-tap delay */
+a, button, input, select, textarea {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Mobile responsive inputs (prevent iOS 16px auto-zoom) */
+@media (max-width: 640px) {
+  input, select, textarea {
+    font-size: 16px !important;
+  }
+}
+
+/* Smooth touch scrolling */
+.touch-scroll {
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+}
+
+/* Focus styles for WCAG 2.2 AA */
+:focus-visible {
+  outline: 2px solid #d4af75;
+  outline-offset: 3px;
+}

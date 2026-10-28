@@ -1,0 +1,218 @@
+{
+  "settings": {
+    "brandNameEn": "Shree Bherunath Jewellers",
+    "brandNameHi": "श्री भेरूनाथ ज्वेलर्स",
+    "taglineEn": "Timeless Tradition. Exceptional Elegance.",
+    "taglineHi": "परंपरा की खूबसूरती, आभूषणों की चमक।",
+    "logoText": "SBJ",
+    "category": "Gold & Silver Jewellery",
+    "whatsappNumber": "918850032920",
+    "phone": "+91 88500 32920",
+    "addressEn": "Shree Bherunath Jewellers, Near Kankroli Bus Stand, Kankroli, Rajsamand, Rajasthan 313324, India",
+    "addressHi": "श्री भेरूनाथ ज्वेलर्स, कांकरोली बस स्टैंड के पास, कांकरोली, राजसमंद, राजस्थान ३१३३२४, भारत",
+    "instagramUrl": "https://www.instagram.com/s_b_j_silver_hub?srtk=bGhmc3V0ajI1NTF4",
+    "mapsUrl": "https://maps.google.com/?q=Shree+Bherunath+Jewellers+Near+Kankroli+Bus+Stand+Rajsamand+Rajasthan",
+    "openingHoursEn": "Mon – Sat: 10:30 AM – 8:30 PM | Sunday: 11:00 AM – 6:00 PM",
+    "openingHoursHi": "सोम – शनि: सुबह 10:30 – रात 8:30 | रविवार: सुबह 11:00 – शाम 6:00",
+    "liveRatesEnabled": true,
+    "gold24kRate": 78500,
+    "gold22kRate": 72000,
+    "silverRate": 94000,
+    "ratesSource": "IBJA (India Bullion and Jewellers Association) benchmark",
+    "ratesLastUpdated": "2026-10-28T11:24:52.518Z"
+  },
+  "admin": {
+    "salt": "e9b28f731c4e",
+    "passwordHash": "7046494e934bdd9de07e993ec570946171245a1e0d3ae2fb80755d46a52cae1e22d57871164ce3e81ae5b25181ee0e4ccb63ac302939d9e3d0a03deaa8c14ee9"
+  },
+  "auditLogs": [
+    {
+      "timestamp": "2026-10-28T11:26:02.828Z",
+      "action": "IMAGE_UPLOAD",
+      "details": "Admin uploaded new authentic jewellery photograph: /uploads/1793186762827_sample_ring_png.png"
+    },
+    {
+      "timestamp": "2026-10-28T11:26:02.805Z",
+      "action": "ADMIN_LOGIN",
+      "details": "Admin logged in successfully."
+    },
+    {
+      "timestamp": "2026-10-28T11:25:59.011Z",
+      "action": "ADMIN_LOGIN",
+      "details": "Admin logged in successfully."
+    },
+    {
+      "timestamp": "2026-10-28T11:24:52.518Z",
+      "action": "SETTINGS_UPDATE",
+      "details": "Store contact details, rates, or business configuration updated."
+    },
+    {
+      "timestamp": "2026-10-28T11:24:39.976Z",
+      "action": "ADMIN_LOGIN",
+      "details": "Admin logged in successfully."
+    },
+    {
+      "timestamp": "2026-10-28T11:23:05.786Z",
+      "action": "SETTINGS_UPDATE",
+      "details": "Store contact details, rates, or business configuration updated."
+    },
+    {
+      "timestamp": "2026-10-28T11:22:38.426Z",
+      "action": "SETTINGS_UPDATE",
+      "details": "Store contact details, rates, or business configuration updated."
+    },
+    {
+      "timestamp": "2026-10-28T11:19:48.133Z",
+      "action": "ADMIN_LOGIN",
+      "details": "Admin logged in successfully."
+    },
+    {
+      "timestamp": "2026-10-28T11:14:42.744Z",
+      "action": "ADMIN_LOGIN",
+      "details": "Admin logged in successfully."
+    },
+    {
+      "timestamp": "2026-10-28T10:58:50.419Z",
+      "action": "SYSTEM_INIT",
+      "details": "Store database initialized with authentic gold and silver jewellery collections."
+    }
+  ],
+  "products": [
+    {
+      "id": "sbj-001",
+      "nameEn": "Royal Kundan & Polki Antique Choker Set",
+      "nameHi": "शाही कुंदन एवं पोलकी एंटीक चोकर सेट",
+      "category": "Bridal Jewellery",
+      "materialEn": "22K Gold (916 BIS Hallmarked) with Natural Uncut Polki & Emerald Beads",
+      "materialHi": "22 कैरेट सोना (916 बीआईएस हॉलमार्क) प्राकृतिक पोलकी व पन्ना मोतियों सहित",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weight": "68.4 g",
+      "dimensions": "Choker width: 3.2 cm; Matching earrings: 5.5 cm",
+      "price": null,
+      "availability": "Made to Order",
+      "isFeatured": true,
+      "image": "/products/choker-set.svg",
+      "descriptionEn": "An opulent royal Rajputana choker crafted with hand-set polki uncut stones, traditional meenakari enameling on the reverse, and clusters of natural emerald drops.",
+      "descriptionHi": "राजपूताना विरासत से प्रेरित भव्य चोकर, जिसमें कुशल कारीगरों द्वारा जड़े गए अनकट पोलकी, पीछे सुंदर मीनाकारी और पन्ना मोतियों की खूबसूरत लड़ियाँ शामिल हैं।"
+    },
+    {
+      "id": "sbj-002",
+      "nameEn": "Heritage Kasu Mala Lakshmi Long Necklace",
+      "nameHi": "विरासत कासु माला महालक्ष्मी लंबा हार",
+      "category": "Necklaces",
+      "materialEn": "22K Yellow Gold (916 BIS Hallmarked)",
+      "materialHi": "22 कैरेट पीला सोना (916 बीआईएस हॉलमार्क)",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weight": "52.1 g",
+      "dimensions": "Length: 26 inches (Adjustable dori)",
+      "price": null,
+      "availability": "In Stock",
+      "isFeatured": true,
+      "image": "/products/kasu-mala.svg",
+      "descriptionEn": "Traditional temple coin necklace embossed with Goddess Lakshmi motifs, representing prosperity and divine auspiciousness for festive and wedding ceremonies.",
+      "descriptionHi": "मां लक्ष्मी की नक्काशीदार मुद्राओं से सुसज्जित पारंपरिक कासु माला, जो समृद्धि, सौभाग्य और भारतीय परंपरा का प्रतीक है।"
+    },
+    {
+      "id": "sbj-003",
+      "nameEn": "Handcrafted Antique Gold Kada Bangles (Pair)",
+      "nameHi": "हस्तनिर्मित प्राचीन सोने के कड़े (जोड़ी)",
+      "category": "Bangles",
+      "materialEn": "22K Gold (916 BIS Hallmarked) with Antique Patina",
+      "materialHi": "22 कैरेट सोना (916 हॉलमार्क) विंटेज फिनिश",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weight": "44.8 g",
+      "dimensions": "Size: 2-6 (Custom sizing available)",
+      "price": null,
+      "availability": "In Stock",
+      "isFeatured": true,
+      "image": "/products/gold-kadas.svg",
+      "descriptionEn": "Substantial solid gold kadas featuring intricate floral repoussé carving, screw lock mechanism, and timeless antique finish.",
+      "descriptionHi": "पारंपरिक फूलों की नक्काशी और मजबूत स्क्रू लॉक के साथ तैयार किए गए 22 कैरेट सोने के कंगन।"
+    },
+    {
+      "id": "sbj-004",
+      "nameEn": "925 Sterling Silver Royal Bridal Payal & Bichhiya Set",
+      "nameHi": "९२५ शुद्ध चांदी की शाही दुल्हन पायल एवं बिछिया सेट",
+      "category": "Silver Jewellery",
+      "materialEn": "92.5% Pure Sterling Silver with Anti-Tarnish Coating",
+      "materialHi": "92.5% शुद्ध स्टर्लिंग चांदी (एंटी-टार्निश पॉलिश)",
+      "purity": "92.5% Sterling Silver",
+      "weight": "160 g",
+      "dimensions": "Length: 10.5 inches with adjustable hooks",
+      "price": 18500,
+      "availability": "In Stock",
+      "isFeatured": true,
+      "image": "/products/silver-payal.svg",
+      "descriptionEn": "Magnificent bridal silver anklets with musical ghungroo bells and filigree craftsmanship, accompanied by intricately designed toe rings.",
+      "descriptionHi": "मधुर घुंघरुओं और महीन जालीदार काम से सुसज्जित शुद्ध चांदी की दुल्हन पायल व मैचिंग बिछिया सेट।"
+    },
+    {
+      "id": "sbj-005",
+      "nameEn": "Authentic 925 Pure Silver Pooja Aarti Thali Set (7 Pieces)",
+      "nameHi": "शुद्ध चांदी का पूजा आरती थाली सेट (७ वस्तुएं)",
+      "category": "Silver Jewellery",
+      "materialEn": "925 Fine Sterling Silver with Bureau of Indian Standards Silver Hallmark",
+      "materialHi": "925 फाइन स्टर्लिंग चांदी, बीआईएस हॉलमार्क युक्त",
+      "purity": "92.5% Fine Silver",
+      "weight": "320 g",
+      "dimensions": "Thali Diameter: 9 inches",
+      "price": 36000,
+      "availability": "In Stock",
+      "isFeatured": false,
+      "image": "/products/diamond-ring.svg",
+      "descriptionEn": "Sacred silverware ensemble comprising embossed floral thali, five-wick deepak, bell, kumkum containers, and panchpatra for devout rituals.",
+      "descriptionHi": "शुभ प्रसंगों और दैनिक पूजा हेतु शुद्ध चांदी की थाली, पंचमुखी दीपक, घंटी, रोली-चावल पात्र और आचमन पंचपात्र।"
+    },
+    {
+      "id": "sbj-006",
+      "nameEn": "Traditional Rajasthani Aad & Borla Maang Tikka",
+      "nameHi": "पारंपरिक राजस्थानी आड़ एवं बोरला मांग टीका",
+      "category": "Traditional Jewellery",
+      "materialEn": "22K Gold (916 BIS Hallmarked) with Hand-cut Stones",
+      "materialHi": "22 कैरेट सोना (916 हॉलमार्क) हस्त-तराशे रत्नों सहित",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weight": "48.2 g",
+      "dimensions": "Aad width: 14 cm; Borla diameter: 2.2 cm",
+      "price": null,
+      "availability": "Made to Order",
+      "isFeatured": true,
+      "image": "/products/pooja-thali.svg",
+      "descriptionEn": "The pride of Rajasthani royalty, this rigid crescent choker (Aad) is paired with a spherical gem-studded Borla for an unforgettable traditional bride.",
+      "descriptionHi": "मेवाड़ और मारवाड़ की राजसी पहचान — सुनहरी नक्काशीदार आड़ और मोतियों से सज्जित पारंपरिक बोरला।"
+    },
+    {
+      "id": "sbj-007",
+      "nameEn": "Classic Solitaire Diamond & 18K Yellow Gold Ring",
+      "nameHi": "क्लासिक सॉलिटेयर हीरा एवं १८ कैरेट गोल्ड अंगूठी",
+      "category": "Rings",
+      "materialEn": "18K Yellow Gold (750 BIS Hallmarked) with VVS-EF Certified Diamond",
+      "materialHi": "18 कैरेट सोना (750 हॉलमार्क) एवं VVS-EF प्रमाणित हीरा",
+      "purity": "18K (750 Hallmarked)",
+      "weight": "4.8 g (Diamond: 0.70 ct)",
+      "dimensions": "Size: 14 (Can be resized)",
+      "price": null,
+      "availability": "In Stock",
+      "isFeatured": true,
+      "image": "/products/gold-jhumkas.svg",
+      "descriptionEn": "Timeless engagement solitaire featuring an exceptional precision-cut diamond secured in a 6-prong gold crown.",
+      "descriptionHi": "विशेष चमक और परिशुद्धता के साथ तैयार की गई शानदार सॉलिटेयर हीरे की सोने की अंगूठी।"
+    },
+    {
+      "id": "sbj-008",
+      "nameEn": "22K Gold Traditional Peacock Jhumka Earrings",
+      "nameHi": "२२ कैरेट सोने के पारंपरिक मयूर झुमके",
+      "category": "Earrings",
+      "materialEn": "22K Yellow Gold (916 BIS Hallmarked)",
+      "materialHi": "22 कैरेट पीला सोना (916 बीआईएस हॉलमार्क)",
+      "purity": "22K (916 BIS Hallmarked)",
+      "weight": "19.6 g",
+      "dimensions": "Drop Length: 4.8 cm",
+      "price": null,
+      "availability": "In Stock",
+      "isFeatured": true,
+      "image": "/products/jadau-pendant.svg",
+      "descriptionEn": "Graceful three-tier bell jhumkas crowned with detailed peacock filigree and delicate gold droplet fringes.",
+      "descriptionHi": "मयूर आकृति और बारीक जालीदार घंटी वाले पारंपरिक झुमके जो कानों को शाही सुंदरता प्रदान करते हैं।"
+    }
+  ]
+}

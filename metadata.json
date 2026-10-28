@@ -1,0 +1,6 @@
+{
+  "name": "Shree Bherunath Jewellers",
+  "description": "Official bilingual website of Shree Bherunath Jewellers (श्री भेरूनाथ ज्वेलर्स) featuring hallmarked gold and silver collections, bespoke bridal jewellery, verified purity, and WhatsApp enquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Shree Bherunath Jewellers",
+  "short_name": "SBJ Jewellers",
+  "description": "Authentic BIS Hallmarked Gold & 925 Pure Silver Jewellery near Kankroli Bus Stand.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0B0C",
+  "theme_color": "#0B0B0C",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/sbj-logo.png",
+      "sizes": "203x203",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
